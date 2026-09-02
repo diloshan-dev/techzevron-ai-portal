@@ -1,0 +1,22 @@
+/* Theme: Darky (Dark Theme) - Add to style.css */
+[data-theme="darky"] {
+    --bg-dark: #0d0d0d;
+    --bg-darker: #000000;
+    --bg-card: rgba(25, 25, 25, 0.9);
+    --primary: #00d9ff;
+    --primary-light: #00f5ff;
+    --accent: #ff006e;
+    --text-primary: #ffffff;
+    --text-secondary: #b3b3b3;
+    --border: rgba(255, 255, 255, 0.08);
+    --glass: rgba(30, 30, 30, 0.8);
+    --glass-border: rgba(255, 255, 255, 0.05);
+    --mesh-1: #00d9ff;
+    --mesh-2: #ff006e;
+    --mesh-3: #8338ec;
+    --glow-color: rgba(0, 217, 255, 0.4);
+}
+
+.darky-preview {
+    background: linear-gradient(135deg, #0d0d0d, #00d9ff, #ff006e);
+}
