@@ -1,5 +1,4 @@
-## 2️⃣ TechZevron Web Application එක සඳහා
-
+## 2️⃣ TechZevron Web Application
 ```markdown
 # TechZevron - Modern Tech & AI Platform 🤖🚀
 
