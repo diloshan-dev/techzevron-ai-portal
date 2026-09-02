@@ -1,8 +1,21 @@
-## 2️⃣ TechZevron Web Application
-```markdown
 # TechZevron - Modern Tech & AI Platform 🤖🚀
 
 TechZevron is an innovative web application built to showcase modern technology solutions, artificial intelligence integrations, enterprise services, and digital transformation tools.
+
+---
+
+## 📸 Preview & Screenshots
+
+![TechZevron Screenshots](image.png)
+
+### 🎥 Demo Video / Preview
+<!-- Option 1: If your recording is converted to a .gif file -->
+![TechZevron Demo Preview](Recording-2026-08-26.gif)
+
+<!-- Option 2: If it is a video file or hosted on YouTube, use this line instead -->
+<!-- [![Watch the Video](image.png)](YOUR_VIDEO_URL_HERE) -->
+
+---
 
 ## 🌟 Key Features
 
