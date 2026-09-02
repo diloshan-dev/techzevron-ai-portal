@@ -35,4 +35,4 @@ TechZevron is an innovative web application built to showcase modern technology 
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/your-username/techzevron-web.git](https://github.com/your-username/techzevron-web.git)
+   git clone [https://github.com/diloshan-dev/techzevron-web.git](https://github.com/diloshan-dev/techzevron-web.git)
